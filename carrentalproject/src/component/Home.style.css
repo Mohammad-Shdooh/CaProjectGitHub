@@ -1,0 +1,12 @@
+.Homeheader { 
+    background-color: darkblue;
+    color: white; 
+    text-align: center;
+    border: 3px solid transparent;
+}
+
+.HomeContentsection { 
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top:15px ;
+}

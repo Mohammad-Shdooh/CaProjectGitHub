@@ -1,0 +1,34 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+
+  .search-bar {
+    display: flex;
+    align-items: center;
+  }
+  
+  .search-bar .form-control {
+    max-width: 200px; /* Adjust width as needed */
+  }
+  
+  .d-flex {
+    display: flex;
+  }
+  
+  .ms-auto {
+    margin-left: auto;
+  }
+  
